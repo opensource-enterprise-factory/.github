@@ -42,7 +42,7 @@ Ces jalons sont des **objectifs conditionnels**. Aucun client, partenaire ou ré
 - [Plan éditorial et événements](COMMUNICATION-PLAYBOOK.md)
 - [Scorecard mensuelle et définitions](SCORECARD.md)
 - [Trame publique du pipeline anonymisé](partner-pipeline-template.csv)
-- [Fiches actions à suivre via GitHub Issues](../../../../issues) (accès depuis le dépôt GitHub concerné)
+- [Suivre les fiches d'action dans GitHub Issues](https://github.com/opensource-enterprise-factory/.github/issues?q=is%3Aissue%20is%3Aopen%20STRAT-)
 
 **Protection des données :** les noms, emails, numéros, tarifs, négociations et informations confidentielles des prospects sont conservés dans un outil privé à accès restreint. Le CSV de ce dépôt public est uniquement une **trame vide**.
 
