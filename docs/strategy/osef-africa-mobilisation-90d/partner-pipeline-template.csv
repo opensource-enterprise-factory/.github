@@ -1,0 +1,2 @@
+record_id,segment,country,organization_public_name,stage,osef_workstream,owner_role,next_action,expected_output,evidence_status
+EXAMPLE-DO-NOT-USE,ESN,Country,Example only,IDENTIFIED,PARTNERSHIPS,Unassigned,Qualify business need,Discovery meeting,NOT_VERIFIED
